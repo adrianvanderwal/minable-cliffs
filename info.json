@@ -1,0 +1,12 @@
+{
+  "name": "minable-cliffs",
+  "version": "2020.11.14",
+  "date": "2020.11.14",
+  "title": "Minable cliffs",
+  "author": "EnigmaticAussie",
+  "dependencies": [
+    "base"
+  ],
+  "description": "",
+  "factorio_version": "1.1"
+}
